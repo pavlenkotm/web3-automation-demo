@@ -11,3 +11,4 @@ Created by **PavlenkoTM** — engineer & Web3 developer (Python / Rust / Solana 
 ## 📬 Contacts
 - Telegram: [@pavlenkotm](https://t.me/pavlenkotm)
 - X (Twitter): [@Andrei98078941](https://x.com/Andrei98078941)
+_Updated: first commit for Legion score test._
